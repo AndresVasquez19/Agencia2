@@ -66,7 +66,7 @@ function CasesList(){
     const  breakPoints = [
         { width: 1, itemsToShow: 1, itemsToScroll: 1 },
         { width: 1280, itemsToShow: 2, itemsToScroll: 2 },
-        { width: 1750, itemsToShow: 3, itemsToScroll: 2 },
+        { width: 1760, itemsToShow: 3, itemsToScroll: 2 },
         // { width: 1450, itemsToShow: 5 },
         // { width: 1750, itemsToShow: 6 },
     ]
