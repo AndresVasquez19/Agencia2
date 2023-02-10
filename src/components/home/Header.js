@@ -99,7 +99,7 @@ function Header(){
               <h1 className="text-4xl font-semibold tracking-tight pb-16  sm:text-7xl">
               Agency for <span> </span>
                   <Typewriter
-                        words={['Dreamers', 'Creators', 'You!']}
+                        words={['Dreamers', 'Creators', 'You!','Colombia']}
                         loop={0}
                         cursor
                         
