@@ -6,7 +6,7 @@ import Layout from "hocs/layouts/Layout"
 import { useEffect } from "react"
 import { Helmet } from 'react-helmet-async';
 
-function Cases(){
+function Cases(){   
     useEffect(()=>{
         window.scrollTo(0,0)
     },[])
